@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98d759ce.chunk.css",
+    "main.js": "/static/js/main.c08404d5.chunk.js",
+    "main.js.map": "/static/js/main.c08404d5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.c12eaea3.chunk.css": "/static/css/2.c12eaea3.chunk.css",
+    "static/js/2.8a3c37c7.chunk.js": "/static/js/2.8a3c37c7.chunk.js",
+    "static/js/2.8a3c37c7.chunk.js.map": "/static/js/2.8a3c37c7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5810725c90b31b43e755226d1041cc63.js": "/precache-manifest.5810725c90b31b43e755226d1041cc63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c12eaea3.chunk.css.map": "/static/css/2.c12eaea3.chunk.css.map",
+    "static/css/main.98d759ce.chunk.css.map": "/static/css/main.98d759ce.chunk.css.map",
+    "static/media/App.css": "/static/media/backgroundChat.76350bfd.jpg",
+    "static/media/camera.png": "/static/media/camera.3ead9b35.png",
+    "static/media/logo.ico": "/static/media/logo.1a366415.ico",
+    "static/media/profile.jpg": "/static/media/profile.773f56e0.jpg"
+  }
+}
